@@ -1,8 +1,0 @@
-1)pip install virtualenv 
-2)virtualenv venv
-3)pip install -r requirements.txt
-4)python manage.py runserver
-
-5)import the dump file into mysql 
-6)pass your passwords in apm_finder/setting.py file
-7)open postman and use the apis 
